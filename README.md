@@ -4,13 +4,12 @@
 <img width='125px' src='./assets/logo.png'/>
 
 <div>
-<a href='https://www.linkedin.com/in/maung-htike-482b4b143/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a target='_blank' href='https://www.linkedin.com/in/maung-htike-482b4b143/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <a href='mailto:maunghtikebusiness@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-<a href='https://medium.com/@maunghtike'><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/></a>
-<a href='https://github.com/Sfzmango'><img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
-<a href='https://sfzmango.github.io/Maung-Htike-Portfolio-v5-React/'><img src='https://img.shields.io/badge/Portfolio-white?style=for-the-badge'/></a>
+<a target='_blank' href='https://medium.com/@maunghtike'><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/></a>
+<a target='_blank' href='https://sfzmango.github.io/Maung-Htike-Portfolio-v5-React/'><img src='https://img.shields.io/badge/Portfolio-white?style=for-the-badge'/></a>
 </div>
-<a href='https://github.com/Sfzmango'><img src="https://komarev.com/ghpvc/?username=Sfzmango&style=for-the-badge&color=grey"/></a>
+<a target='_blank' href='https://github.com/Sfzmango'><img src="https://komarev.com/ghpvc/?username=Sfzmango&style=for-the-badge&color=grey"/></a>
 </section><br/>
 
 <section>
@@ -108,9 +107,9 @@
 
 <section>
 <h2>Contact Me:</h2><hr><br/>
-<a href='https://www.linkedin.com/in/maung-htike-482b4b143/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a target='_blank' href='https://www.linkedin.com/in/maung-htike-482b4b143/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <a href='mailto:maunghtikebusiness@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-<a href='https://github.com/Sfzmango'><img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
-<a href='https://sfzmango.github.io/Maung-Htike-Portfolio-v5-React/'><img src='https://img.shields.io/badge/Portfolio-white?style=for-the-badge'/></a>
+<a target='_blank' href='https://github.com/Sfzmango'><img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a target='_blank' href='https://sfzmango.github.io/Maung-Htike-Portfolio-v5-React/'><img src='https://img.shields.io/badge/Portfolio-white?style=for-the-badge'/></a>
 </section>
 
