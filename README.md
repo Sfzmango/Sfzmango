@@ -21,10 +21,10 @@ USMC veteran · Bay Area, California</p>
 <p>Full-stack software engineer with nearly a decade of technical experience across fintech SaaS and technology — I build payments infrastructure and, lately, the multi-agent AI systems that ship it.</p>
 
 <ul>
-<li>🏦 Built B2B payments features end-to-end at <b>Corpay (NYSE: CPAY)</b> — React / AngularJS / Ruby on Rails on a SaaS platform processing millions of dollars in daily payments.</li>
-<li>🤖 Now a <b>Senior Software Engineer / Architect</b>: designed a multi-agent AI orchestration system on <b>Claude Code</b> — adversarial evaluation loops, MCP tool integrations, and zero-regression quality gates — to ship a production multi-tenant procure-to-pay platform end-to-end.</li>
-<li>🧰 Released the open-source <a target="_blank" href="https://github.com/Sfzmango/Maungs-agentic-toolbelt"><b>Maung's Agentic Toolbelt</b></a> — <b>16 agents + 9 skills</b> that take work from a raw idea to a security-reviewed, merge-ready pull request.</li>
-<li>🎖️ U.S. Marine Corps veteran — Electro-Optical Ordnance Repairer; held a Secret security clearance.</li>
+<li>Built B2B payments features end-to-end at <b>Corpay (NYSE: CPAY)</b> — React / AngularJS / Ruby on Rails on a SaaS platform processing millions of dollars in daily payments.</li>
+<li><b>Senior Software Engineer / Architect</b>: designed a multi-agent AI orchestration system on <b>Claude Code</b> — adversarial evaluation loops, MCP tool integrations, and zero-regression quality gates — to ship a production multi-tenant procure-to-pay platform end-to-end.</li>
+<li>🧠 Released the open-source <a target="_blank" href="https://github.com/Sfzmango/Maungs-agentic-toolbelt"><b>Maung's Agentic Toolbelt</b></a> — <b>16 agents + 9 skills</b> that take work from a raw idea to a security-reviewed, merge-ready pull request.</li>
+<li>⚓︎ U.S. Marine Corps veteran — Electro-Optical Ordnance Repairer; held a Secret security clearance.</li>
 </ul>
 </section><br/>
 
